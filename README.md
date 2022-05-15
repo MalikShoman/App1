@@ -1,5 +1,5 @@
 # App1
-Task to use shared preferences 
+Task to move values to second activity 
 <hr>
 Screenshots
 <hr>
